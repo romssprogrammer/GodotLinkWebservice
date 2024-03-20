@@ -1,0 +1,2 @@
+# GodotLinkWebservice
+Webservice rest API
